@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Keyboardlock</string>
+    <string name="title_activity_add_products">AddProducts</string>
+</resources>
